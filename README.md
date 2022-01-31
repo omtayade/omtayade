@@ -9,7 +9,7 @@
 - 🔭 I’m *3rd year Computer Engineering Student* at [*PICT*](https://pict.edu/)
 - 🌱 I'm a Fullstack developer and a Competitive Programmer
 - 🔭 I'm Looking for Internship oppurtinities
-- 
+
 
 
 
