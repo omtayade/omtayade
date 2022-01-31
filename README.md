@@ -23,9 +23,7 @@
       <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
     </a> 
     <!-- JavaScript -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-      <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> 
-    </a> 
+
     <!-- Bootstrap -->
     <a href="https://getbootstrap.com" target="_blank"> 
       <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
@@ -107,10 +105,10 @@
     <img src="https://img.icons8.com/color/48/000000/gmail--v2.png"/>
   </a>
   <a href="https://leetcode.com/om_1609/" title="LeetCode">
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/omtayade160901/practice/" title="GeeksforGeeks">
-    <img src="https://img.icons8.com/color/50/000000/GeeksforGeeks.png"/>
+    <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png"/>
   </a>
  
   <!--<a href = "https://twitter.com/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>-->
